@@ -6,7 +6,8 @@ A deep learning-based web application to classify fish species from uploaded ima
 
 ## 🚀 Demo
 
-![App Screenshot](./upload/Trout.jpg) <!-- Replace this with your own app image -->
+![image](https://github.com/user-attachments/assets/389e78eb-18d1-44ff-b2c4-e25f138d0f7f)
+
 > 🎯 Example Prediction: `fish sea_food trout`  
 > ✅ Confidence: `92.5%`  
 > 📊 Model Accuracy: `89.00%`
